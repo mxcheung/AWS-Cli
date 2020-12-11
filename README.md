@@ -19,13 +19,9 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 		ssh -i "<yourname>-awscli.pem" ec2-user@ec2-3-25-127-73.ap-southeast-2.compute.amazonaws.com
 
                eg. ssh -i "cheungm-mqtt.pem" ec2-user@ec2-3-25-127-73.ap-southeast-2.compute.amazonaws.com
-	       
- # Related Articles
- https://mobaxterm.mobatek.net/download.html
- 
- https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 
 
+# Screenshot
 
 [2020-12-12 09:41.58]  /drives/d/max/aws
 [Max.DESKTOP-1ULQ7VE] ➤ ls -ltr cheungm-mqtt.pem
@@ -44,3 +40,11 @@ https://aws.amazon.com/amazon-linux-2/
 7 package(s) needed for security, out of 19 available
 Run "sudo yum update" to apply all updates.
 [ec2-user@ip-172-31-44-23 ~]$
+
+
+ # Related Articles
+ https://mobaxterm.mobatek.net/download.html
+ 
+ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
+
+
