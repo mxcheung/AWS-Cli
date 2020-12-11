@@ -17,3 +17,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 	  2. Launch Mobaxterm  
 	  3. Remote Host:  
 			   ssh -i "<yourname>-awscli.pem" ec2-user@ec2-3-25-127-73.ap-southeast-2.compute.amazonaws.com
+
+
+ # Related Articles
+https://mobaxterm.mobatek.net/download.html
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
