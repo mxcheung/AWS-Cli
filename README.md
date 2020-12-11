@@ -46,5 +46,6 @@ Run "sudo yum update" to apply all updates.
  https://mobaxterm.mobatek.net/download.html
  
  https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
-
+ 
+https://medium.com/@ahmeeddhon/using-aws-instance-scheduler-to-reduce-amazon-ec2-or-rds-cost-56c9eb374344
 
