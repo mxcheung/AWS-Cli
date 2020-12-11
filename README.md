@@ -1,2 +1,2 @@
 # AWS-Cli
-AWS Comomand Line Interface
+AWS Command Line Interface
