@@ -19,8 +19,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 	  3. Remote Host:  
 		ssh -i "<yourname>-awscli.pem" ec2-user@ec2-3-25-127-73.ap-southeast-2.compute.amazonaws.com
 
-               eg. ssh -i "cheungm-mqtt.pem" ec2-user@ec2-3-25-127-73.ap-southeast-2.compute.amazonaws.com
-                   ssh -i "cheungm-mqtt.pem" ec2-user@ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com
+               eg. ssh -i "cheungm-mqtt.pem" ec2-user@ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com
 
 # Screenshot
 
