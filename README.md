@@ -41,6 +41,8 @@ https://aws.amazon.com/amazon-linux-2/
 Run "sudo yum update" to apply all updates.
 [ec2-user@ip-172-31-44-23 ~]$
 
+# Perl upgrade using PerlBrew
+
 
  # Related Articles
  https://mobaxterm.mobatek.net/download.html
@@ -48,4 +50,6 @@ Run "sudo yum update" to apply all updates.
  https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
  
 https://medium.com/@ahmeeddhon/using-aws-instance-scheduler-to-reduce-amazon-ec2-or-rds-cost-56c9eb374344
+
+https://perlbrew.pl/
 
