@@ -61,6 +61,15 @@ Fetching perl 5.30.0 as /home/ec2-user/perl5/perlbrew/dists/perl-5.30.0.tar.gz
 Download http://www.cpan.org/authors/id/X/XS/XSAWYERX/perl-5.30.0.tar.gz to /home/ec2-user/perl5/perlbrew/dists/perl-5.30.0.tar.gz
 Installing /home/ec2-user/perl5/perlbrew/build/perl-5.30.0/perl-5.30.0 into ~/perl5/perlbrew/perls/perl-5.30.0
 
+## Using perl 5v30
+[ec2-user@ip-172-31-44-23 ~]$ perlbrew use perl-5.30.0
+[ec2-user@ip-172-31-44-23 ~]$ perl --version
+
+This is perl 5, version 30, subversion 0 (v5.30.0) built for x86_64-linux
+(with 1 registered patch, see perl -V for more detail)
+
+
+
  # Related Articles
  https://mobaxterm.mobatek.net/download.html
  
