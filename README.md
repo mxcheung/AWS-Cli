@@ -23,6 +23,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 
 # Screenshot
 
+
 [2020-12-12 09:41.58]  /drives/d/max/aws
 [Max.DESKTOP-1ULQ7VE] ➤ ls -ltr cheungm-mqtt.pem
 -rw-------    1 Max      UsersGrp      1692 Jan 19  2020 cheungm-mqtt.pem
@@ -43,6 +44,22 @@ Run "sudo yum update" to apply all updates.
 
 # Perl upgrade using PerlBrew
 
+
+## Installing perlbrew
+Using Perl </usr/bin/perl>
+perlbrew is installed: ~/perl5/perlbrew/bin/perlbrew
+
+perlbrew root (~/perl5/perlbrew) is initialized.
+
+Append the following piece of code to the end of your ~/.bash_profile and start a
+new shell, perlbrew should be up and fully functional from there:
+
+    source ~/perl5/perlbrew/etc/bashrc
+
+[ec2-user@ip-172-31-44-23 ~]$ perlbrew install perl-5.30.0
+Fetching perl 5.30.0 as /home/ec2-user/perl5/perlbrew/dists/perl-5.30.0.tar.gz
+Download http://www.cpan.org/authors/id/X/XS/XSAWYERX/perl-5.30.0.tar.gz to /home/ec2-user/perl5/perlbrew/dists/perl-5.30.0.tar.gz
+Installing /home/ec2-user/perl5/perlbrew/build/perl-5.30.0/perl-5.30.0 into ~/perl5/perlbrew/perls/perl-5.30.0
 
  # Related Articles
  https://mobaxterm.mobatek.net/download.html
