@@ -68,6 +68,10 @@ Installing /home/ec2-user/perl5/perlbrew/build/perl-5.30.0/perl-5.30.0 into ~/pe
 This is perl 5, version 30, subversion 0 (v5.30.0) built for x86_64-linux
 (with 1 registered patch, see perl -V for more detail)
 
+/home/ec2-user/perl/Ex_Files_Perl_5_EssT/Exercise Files/Ch01
+[ec2-user@ip-172-31-44-23 Ch01]$ perl hello-version.pl
+Perl version is v5.30.0
+
 
 
  # Related Articles
