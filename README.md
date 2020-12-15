@@ -81,6 +81,9 @@ Custom TCP	TCP	8080	0.0.0.0/0	swagger
 http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/v3/api-docs
 
+## Public AMIs
+https://bitnami.com/stack/sonarqube/cloud/aws/amis
+
  # Related Articles
  https://mobaxterm.mobatek.net/download.html
  
