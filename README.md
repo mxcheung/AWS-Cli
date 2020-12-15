@@ -82,6 +82,7 @@ http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/swagger-ui/in
 http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/v3/api-docs
 
 ## Public AMIs
+SonarQube version -- 	8.5.1.38104-1
 https://bitnami.com/stack/sonarqube/cloud/aws/amis
 
  # Related Articles
