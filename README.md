@@ -73,13 +73,13 @@ This is perl 5, version 30, subversion 0 (v5.30.0) built for x86_64-linux
 Perl version is v5.30.0
 
 
-## Jaav and Maven
+## Java and Maven
 https://docs.aws.amazon.com/neptune/latest/userguide/iam-auth-connect-prerq.html
 
 Custom TCP	TCP	8080	0.0.0.0/0	swagger
 
 http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
-
+http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/v3/api-docs
 
  # Related Articles
  https://mobaxterm.mobatek.net/download.html
