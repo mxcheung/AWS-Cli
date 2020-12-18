@@ -30,6 +30,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 
 [2020-12-12 09:42.07]  /drives/d/max/aws
 [Max.DESKTOP-1ULQ7VE] ➤ ssh -i "cheungm-mqtt.pem" ec2-user@ec2-3-25-127-73.ap-southeast-2.compute.amazonaws.com
+
 X11 forwarding request failed on channel 0
 Last login: Fri Dec 11 22:40:35 2020 from 49.3.64.78
 
@@ -79,6 +80,7 @@ https://docs.aws.amazon.com/neptune/latest/userguide/iam-auth-connect-prerq.html
 Custom TCP	TCP	8080	0.0.0.0/0	swagger
 
 http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+
 http://ec2-54-79-195-173.ap-southeast-2.compute.amazonaws.com:8080/v3/api-docs
 
 ## Public AMIs
